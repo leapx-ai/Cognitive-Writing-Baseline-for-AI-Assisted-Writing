@@ -1,5 +1,4 @@
 
-
 # AI 辅助写作认知表达基线
 
 ## Writing Baseline · Model Protocol v3.0
