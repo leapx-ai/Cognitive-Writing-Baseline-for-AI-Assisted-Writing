@@ -1,7 +1,6 @@
 
 > **生成与审稿分离；审稿再拆分为真实性、认知性、表达性三个维度。**
 
-
 # AI 辅助写作认知表达体系
 
 ## Writing & Cognitive Review Framework · v5.0
